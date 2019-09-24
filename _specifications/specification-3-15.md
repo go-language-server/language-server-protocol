@@ -1,15 +1,14 @@
 ---
 title: Specification
-layout: specification
-sectionid: specification
-toc: true
+shortTitle: 3.15 - Upcoming
+layout: specifications
+sectionid: specification-3-15
+toc: specification-3-15-toc
+index: 2
 ---
-# Language Server Protocol Specification
+# Language Server Protocol Specification - 3.15
 
-This document describes version 3.x of the language server protocol. An implementation for node of the 3.0 version of the protocol can be found [here](https://github.com/Microsoft/vscode-languageserver-node).
-
-The 2.x version of this document can be found [here](https://github.com/Microsoft/language-server-protocol/blob/master/versions/protocol-2-x.md).
-The 1.x version of this document can be found [here](https://github.com/Microsoft/language-server-protocol/blob/master/versions/protocol-1-x.md).
+This document describes the upcoming 3.15.x version of the language server protocol. An implementation for node of the 3.15.x version of the protocol can be found [here](https://github.com/Microsoft/vscode-languageserver-node).
 
 **Note:** edits to this specification can be made via a pull request against this markdown [document](https://github.com/Microsoft/language-server-protocol/blob/gh-pages/specification.md).
 
